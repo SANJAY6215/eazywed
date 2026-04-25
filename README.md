@@ -1,10 +1,5 @@
 EazyWed: Where Elegance Meets Joy
 EazyWed is a comprehensive wedding planning platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It simplifies the wedding planning process by providing tools for vendor booking, budget management, digital invitations, and personalized recommendations, making it easier for users to plan their special day with elegance and joy.
-Team Members
-
-M. Hammad Ur Rehman (L1F21BSCS0021)
-Amir Sohail (L1F21BSCS0999)
-Rana M. Umar Nazir (L1F21BSCS0196)
 
 Features and Sub-Features
 1. Vendor Booking and Management
@@ -68,12 +63,6 @@ Prerequisites
 
 Node.js: Version 14.x or higher recommended.
 MongoDB: Locally installed or a cloud instance like MongoDB Atlas.
-Git: For cloning the repository.
-
-Cloning the Repository
-Clone the EazyWed repository from GitHub:
-git clone https://github.com/web-codings123/EazyWed.git
-cd EazyWed
 
 Backend Setup
 
@@ -154,19 +143,6 @@ Register as a user or vendor to explore features like booking vendors, creating 
 Admin features are accessible via the admin dashboard (requires admin credentials).
 Use the AI-customized chatbot (available on the platform) for assistance with navigation, vendor selection, or general queries.
 
-Contributing
-Contributions are welcome! To contribute:
-
-Fork the repository:git fork https://github.com/web-codings123/EazyWed.git
-
-
-Create a new branch:git checkout -b feature/your-feature-name
-
-
-Make your changes and commit them:git commit -m "Add your feature description"
-
-
-Push to your branch:git push origin feature/your-feature-name
 
 
 Open a pull request on the GitHub repository.
